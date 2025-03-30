@@ -18,6 +18,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-
+### 📱 Mobile
+![Dart](https://img.shields.io/badge/-Dart-00B4A1?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
