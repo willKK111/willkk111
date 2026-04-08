@@ -13,8 +13,7 @@
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true" />
       </td>
       <td align="center" border="0">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willKK111&layout=compact&langs_count=7&theme=merko&hide_border=true" />
-      </td>
+<img height="180em" src="https://github-readme-stats-git-masterhstic.vercel.app/api/top-langs/?username=willKK111&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />      </td>
     </tr>
   </table>
 
