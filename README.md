@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,spring,js,html,css,sass,dart,flutter,python,cpp,nodejs,postgres,firebase,mysql,aws,git,github" />
-</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true&border=3d2a71" />
