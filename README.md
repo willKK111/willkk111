@@ -1,17 +1,33 @@
-
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true" />
+<div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willKK111&layout=compact&langs_count=7&theme=radical&hide_border=false" />
-</p>
+  # ⚡ William Kauê
+  *(ADS @ UFRN)*
 
-<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,flutter,dart,python,cpp,js,nodejs,postgres,firebase,aws,git&theme=dark" />
+
+  <br/><br/>
+
+  <table>
+    <tr>
+      <td align="center" border="0">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true" />
+      </td>
+      <td align="center" border="0">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willKK111&layout=compact&langs_count=7&theme=merko&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <a href="https://www.linkedin.com/in/william-kau%C3%AA-803a58249/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0077B5" />
   </a>
   <a href="mailto:williamkaue111@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=D14836" />
   </a>
-</p>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer" />
+</div>
