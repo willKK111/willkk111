@@ -2,45 +2,38 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas @ UFRN** 🎓
 
-Sou um desenvolvedor apaixonado por resolver problemas através de código, transitando entre a fluidez do **Mobile** e a lógica robusta do **Backend**. Atualmente, estou mergulhando no mundo da **Inteligência Artificial** e **IoT**, buscando conectar o software ao mundo físico.
+Sou um desenvolvedor apaixonado por resolver problemas através de código, transitando entre a fluidez do **Mobile** e a lógica robusta do **Backend**. Atualmente, estou focado em **Visão Computacional** e **IoT**.
 
 ---
 
-## 🚀 No que estou trabalhando agora:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🌿 **Computer Vision:** Desenvolvendo um sistema de classificação de folhas de plantas utilizando **Python** e **OpenCV**.
-- 📟 **IoT & Automação:** Criando uma solução de irrigação automatizada integrando **ESP32 LoRa** com dispositivos Rain Bird.
-- 📱 **Mobile:** Aprimorando minhas habilidades em arquitetura limpa com **Flutter & Dart**.
-
----
-
-## 🛠️ Meu Arsenal Tecnológico
-
-Aqui estão as ferramentas e linguagens com as quais gosto de trabalhar, organizadas por categorias, com ícones similares à sua referência:
-
-### 📱 Desenvolvimento Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Technologies" />
-</p>
-
-### ⚙️ Backend & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,postgres" alt="Backend and Data Technologies" />
-</p>
-
-### 🌐 Frontend & Outros
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,opencv" alt="Frontend and other Technologies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,spring,js,html,css,scss,dart,flutter,python,cpp,nodejs,postgres,firebase,mysql,aws,git,github" />
+  </a>
 </p>
 
 ---
 
-## 📫 Vamos trocar uma ideia?
+## 🚀 Projetos em Destaque:
 
-A melhor maneira de me encontrar:
+- 🌿 **Computer Vision:** Sistema de classificação de folhas utilizando **Python** e **OpenCV**.
+- 📟 **IoT & Automação:** Automação de irrigação com **ESP32 LoRa** e Rain Bird.
+- 📱 **Mobile:** Desenvolvimento de aplicações modernas com **Flutter**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@ufrn.edu.br)
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@ufrn.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 <p align="center">
