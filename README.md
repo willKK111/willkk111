@@ -1,7 +1,10 @@
 
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true&border=3d2a71" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=willKK111&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willKK111&layout=compact&langs_count=7&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
