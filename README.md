@@ -22,9 +22,7 @@
   <a href="https://www.linkedin.com/in/william-kau%C3%AA-803a58249/">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&color=0077B5" />
   </a>
-  <a href="mailto:williamkaue111@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&color=D14836" />
-  </a>
+ 
 
   <br/><br/>
 
