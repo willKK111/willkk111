@@ -16,11 +16,25 @@ Sou um desenvolvedor apaixonado por resolver problemas através de código, tran
 
 ---
 
+## 🔥 My Stats :
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
+
+## 📊 Most Used Languages :
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
 ## 🚀 Projetos em Destaque:
 
-- 🌿 **Computer Vision:** Sistema de classificação de folhas utilizando **Python** e **OpenCV**.
-- 📟 **IoT & Automação:** Automação de irrigação com **ESP32 LoRa** e Rain Bird.
-- 📱 **Mobile:** Desenvolvimento de aplicações modernas com **Flutter**.
+- 🌿 **Computer Vision:** Classificação de folhas com **Python** e **OpenCV**.
+- 📟 **IoT & Automação:** Irrigação inteligente com **ESP32 LoRa**.
+- 📱 **Mobile:** Apps com **Flutter & Dart**.
 
 ---
 
