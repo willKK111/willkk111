@@ -1,23 +1,44 @@
-# 👋 Sobre Mim
+# 👋 Olá, eu sou o William Kauê!
 
-Olá! Meu nome é William Kauê e sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade do Rio Grande do Norte (UFRN). Estou sempre em busca de aprimorar as tecnologias que já conheço, tenho um grande interesse em explorar e aprender novas tecnologias, expandindo continuamente meu repertório para enfrentar desafios e contribuir com soluções inovadoras.
+Estudante de **Análise e Desenvolvimento de Sistemas na UFRN**. Atualmente, foco meus estudos no ecossistema **Mobile com Flutter** e em soluções de **Backend/IA**, explorando como a tecnologia pode resolver problemas do cotidiano.
 
 ---
 
-##  Tecnologias que eu tenho conhecimento:
+## 🛠️ No que estou focado:
+- 📊 **Análise de Dados e Visão Computacional:** Trabalhando em projetos de processamento de imagem com Python e OpenCV.
+- 📱 **Desenvolvimento Mobile:** Criando aplicativos performáticos e fluidos com Flutter.
+- 🤖 **Internet das Coisas (IoT):** Explorando automação com ESP32 e LoRa.
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+---
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧪 Tecnologias e Ferramentas:
 
-### 💻 Backend e Banco de Dados
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📱 Mobile & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-### 📱 Mobile
-![Dart](https://img.shields.io/badge/-Dart-00B4A1?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### ⚙️ Backend & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
