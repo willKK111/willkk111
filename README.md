@@ -26,5 +26,5 @@
 
   <br/><br/>
 
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer" />
 </div>
