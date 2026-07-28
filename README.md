@@ -80,34 +80,6 @@
 
 ---
 
-## 📈 Minha jornada no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=willKK111&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/willKK111">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=willKK111&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/willKK111">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=willKK111&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 Substitua `SEU_REPOSITORIO_1` e `SEU_REPOSITORIO_2` pelos nomes dos seus projetos mais importantes.
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
